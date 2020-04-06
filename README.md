@@ -1,2 +1,2 @@
 # javascript-programming
-JavaScript programming from various courses and tutorials
+JavaScript code from various courses and tutorials
