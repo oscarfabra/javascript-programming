@@ -8,3 +8,6 @@ var theBiggest = function(a, b) {
 }
 
 console.log(theBiggest(7 / 9, 13 / 25));
+
+//Returns the function code
+// console.log(theBiggest);
