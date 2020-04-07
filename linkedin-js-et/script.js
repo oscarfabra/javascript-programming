@@ -1,11 +1,6 @@
-var a = 5;
-var b = 5;
-var theNumbersMatch
+var pens;
+pens = ["red", "blue", "green", "orange"];
+console.log(pens);
 
-if ( a == b ) {
-    theNumbersMatch = true;
-} else {
-    theNumbersMatch = false;
-}
-
-console.log("The nummbers match: " + theNumbersMatch);
+mixedBag = ["keys", 5, false, 568, "one more thing"];
+console.log(mixedBag);
